@@ -1,1 +1,8 @@
 anda dalam zona nyaman
+
+git log untuk menampilkan commit
+git status untuk status
+git add. untuk menambah area
+git init untuk membuat folder init
+git checkout untuk mengubah ke commit atau mengubah branch
+git commit -m "pesan" untuk membuat pesan dan memfungsikan add nya
